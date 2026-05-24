@@ -59,3 +59,5 @@ Wypisz tutaj 5-8 komend Git, których użyto w projekcie, i wyjaśnij każdą je
 
 
 
+
+

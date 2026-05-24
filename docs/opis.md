@@ -8,3 +8,4 @@ W projekcie powinny znaleźć się:
 - lista najważniejszych komend Git,
 - opis trzech branchy,
 - krótka informacja, czego nauczyłeś/nauczyłaś się podczas pracy.
+
